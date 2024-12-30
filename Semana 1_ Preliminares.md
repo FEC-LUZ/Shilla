@@ -1,4 +1,4 @@
-﻿![URU](https://uru.edu/wp-content/uploads/2023/02/uru-logo-maracaibo.png=240x)  
+﻿![URU](https://uru.edu/wp-content/uploads/2023/02/uru-logo-maracaibo.png)  
 $~~$**Asignatura: Matemática 2**
  
 ## CLASE: Preliminares
@@ -10,7 +10,7 @@ $~~$**Asignatura: Matemática 2**
 | **Bibliografía recomendada** | 1. Cálculo integral de Jorge Sáenz<br>2. Cálculo de Larson.  |
 | **Evaluaciones** | Cuatro (4) evaluaciones con un peso de 25% cada una. |
 | **Resumen** | ![resumen](https://i.imgur.com/vnAYyhy.png)  |
-| **Grupo de WhatsApp** | <div align="center">![Grupo WhatsApp URU](https://dl3.pushbulletusercontent.com/znAQxKlxcc6cXbWYlq30NsZH7OINHehS/Screenshot_20241213-213130.jpg =150x)</div> |
+| **Grupo de WhatsApp** | <div align="center">![Grupo WhatsApp URU](https://dl3.pushbulletusercontent.com/znAQxKlxcc6cXbWYlq30NsZH7OINHehS/Screenshot_20241213-213130.jpg)</div> |
 |**Información de contacto del profesor**| **Nombre**: Haller Bracho<br>**e-mail**: haller.bracho@uru.edu<br>**web**: uru.haller.com.ve  |
 | | |
 
