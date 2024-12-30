@@ -1,4 +1,4 @@
-﻿![URU](https://uru.edu/wp-content/uploads/2023/02/uru-logo-maracaibo.png)  
+﻿![URU](https://uru.edu/wp-content/uploads/2023/02/uru-logo-maracaibo.png) 
 $~~$**Asignatura: Matemática 2**
  
 ## CLASE: Preliminares
